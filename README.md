@@ -1,4 +1,4 @@
-# Updated-Fallout-4-Character-Planner
+# [Updated-Fallout-4-Character-Planner](http://crystallook.github.io/fo4/)
 
 Fallout 4 Character Builder
 
